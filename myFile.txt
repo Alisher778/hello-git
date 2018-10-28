@@ -1,2 +1,2 @@
 NImadeb yozish kere?
-NImadeb yozish kere? yana
+hello git file
