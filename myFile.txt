@@ -1,2 +1,3 @@
 NImadeb yozish kere?
 hello git file
+yana changes qilindi
